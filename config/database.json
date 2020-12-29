@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "m",
+    "database": "ec_development",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "m",
+    "database": "ec_test",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "m",
+    "database": "ec_production",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
